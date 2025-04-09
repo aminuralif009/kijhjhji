@@ -1,0 +1,8 @@
+# Get input from the user
+input_str = input("Enter a string: ")
+
+# Replace 'M' with '*'
+output_str = input_str.replace('M', '*')
+
+# Print the result
+print("Output:", output_str)
